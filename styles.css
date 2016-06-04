@@ -1,0 +1,66 @@
+* {
+    font-family: "Helvetica Neue";
+}
+
+.bodywrapper {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    text-align: center;
+    color: #fa661b;
+}
+
+.spacer {
+    margin: 10px;
+}
+
+.subheading {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.addactivity {
+    padding: 20px;
+    width: 400px;
+}
+
+.addactivitytitle {
+    color: black !important;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
+button {
+    padding: 3px;
+}
+
+.programheading {
+    text-align: center;
+}
+
+#add {
+    padding: 10px 40px;
+    color: white;
+    background-color: #13b8bb;
+    border-radius: 3px;
+}
+
+.remove {
+    padding: 5px 20px;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}
+
+input[type=text] {
+    border: none;
+    font-size: 28px;
+    color: crimson;
+}
+
+li span {
+    color: rgba(0, 0, 0, 0.6);
+}
